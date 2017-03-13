@@ -1,5 +1,5 @@
 _repo: Under-Fire--The-Story-of-a-Squad_4380
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Le feu. English
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1938
     gutenberg_agent_id: '1473'
     url: http://www.gutenberg.org/2009/agents/1473
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barbusse, Henri
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1472
     wikipedia: http://en.wikipedia.org/wiki/Henri_Barbusse
 description: Translation of Le feu.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4380#Under-Fire--The-Story-of-a-Squad
 gutenberg_bookshelf:
 - Bestsellers, American, 1895-1923
 - World War I
