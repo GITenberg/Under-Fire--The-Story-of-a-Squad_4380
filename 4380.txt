@@ -16,6 +16,7 @@ Translator: Fitzwater Wray
 Posting Date: August 1, 2009 [EBook #4380]
 Release Date: August, 2003
 First Posted: January 20, 2002
+[Last updated: January 25, 2016]
 
 Language: English
 
@@ -165,7 +166,7 @@ the frightful heaps of wounded and slain.
 Each country whose frontiers are consumed by carnage is seen tearing
 from its heart ever more warriors of full blood and force. One's eyes
 follow the flow of these living tributaries to the River of Death. To
-north and south and west ajar there are battles on every side. Turn
+north and south and west afar there are battles on every side. Turn
 where you will, there is war in every corner of that vastness.
 
 One of the pale-faced clairvoyants lifts himself on his elbow, reckons
@@ -2372,12 +2373,12 @@ there, we're all right."--
 tell you."
 
 A pessimist prophet shakes his head: "What these quarters'll be like
-where we ye never been, I don't know," he says. "What I do know is that
+where we've never been, I don't know," he says. "What I do know is that
 it'll be like the others."
 
 But we don't believe him, and emerging from the fevered turmoil of the
 night, it seems to all that it is a sort of Promised Land we are
-approaching by degrees the light brings us out of the east and the icy
+approaching by degrees as the light brings us out of the east and the icy
 air towards the unknown village.
 
 At the foot of a bill in the half-light, we reach some houses, still
@@ -3491,7 +3492,7 @@ the regular hammering on the armored ground, piercing whistles, the
 ringing of warning bells, the solid metallic crash of the colossal
 cubes telescoping their steel stumps, with the counter-blows of chains
 and the rattle of the long carcases' vertebrae. On the ground floor of
-the building that arises in the middle of the station like a town ball,
+the building that arises in the middle of the station like a town hall,
 the hurried bell of telegraph and telephone was at work, punctuated by
 vocal noises. All about on the dusty ground were the goods sheds, the
 low stores through whose doors one could dimly see the stacked
@@ -4179,7 +4180,7 @@ them--they make me spew, and you can tell 'em so!"
 
 There he was, with his head as of yore, his ears "stuck on again" and
 his Mongolian cheekbones--stubbornly set in the middle of the puzzled
-circle that besieged him; amid we felt that the mouth fast closed on
+circle that besieged him; and we felt that the mouth fast closed on
 ominous silence meant high pressure of seething exasperation in the
 depth of him.
 
@@ -4337,7 +4338,7 @@ pumps--rubbing 'em with paste, fairly glazing 'em, my boy. I stopped to
 watch him, and the chap told me all about himself. Mon vieux, I don't
 remember much more of the stuffing that came out of his crafty skull
 than I remember of the History of France and the dates we whined at
-school. Never, I tell you, bad be been sent to the front, although he
+school. Never, I tell you, had he been sent to the front, although he
 was Class 1903, [note 1] and a lusty devil at that, he was. Danger and
 dog-tiredness and all the ugliness of war--not for him, but for the
 others, oui. He knew damned well that if he set foot in the
@@ -4884,7 +4885,7 @@ exaggerate, old kipper-skin."
 [note 2:] A-shape badges worn on the left arm to indicate the duration
 of service at the front.--Tr.
 
-[note 3:] Soldiers voluntarily enlisted in ordinary times for three.
+[note 3:] Soldiers voluntarily enlisted in ordinary times for three,
 four, or five years. Those enlisted for four or five year' have the
 right to choose their arm of the service, subject to conditions.--Tr.
 
@@ -5347,7 +5348,7 @@ bent forward, hands pocketed--tramp, tramp. These human beings whom the
 blast cuts even among their straw are like a crowd of the wretched
 wrecks of cities who await, under the lowering sky of winter, the
 opening of some charitable institution. But no door will open for
-them--unless it Le four days hence, one evening at the end of the rest,
+them--unless it be four days hence, one evening at the end of the rest,
 to return to the trenches.
 
 Alone in a corner, Cocon cowers. He is tormented by lice; but weakened
@@ -5895,7 +5896,7 @@ family?'
 "Old chap, that was a bit too much for me. Without thinking if I did
 right or wrong, I went up to him and I said, 'Yes, there's me.' The
 Boche asks me questions. I tell him my wife's at Lens with her
-relations, and the little one, to. He asks where she's staying. I
+relations, and the little one, too. He asks where she's staying. I
 explain to him, and he says he can see it from there. 'Listen,' he
 says, 'I'll take her a letter, and not only that, but I'll bring you an
 answer.' Then all of a sudden he taps his forehead, the Boche, and
@@ -6261,7 +6262,7 @@ will you get on? We shall get broken up!"
 The engulfed one gets clear at last, and we have to run to overtake the
 rest of the company. We begin to pant and complain, and bluster against
 those who are leading. Our feet go down haphazard; we stumble and hold
-ourselves up by the wails, so that our hands are plastered with mud.
+ourselves up by the walls, so that our hands are plastered with mud.
 The march becomes a stampede, full of the noise of metal things and of
 oaths.
 
@@ -6328,8 +6329,8 @@ am thrown upon Poterloo and lean on his back, his strong back and
 solid, like the trunk of a tree, like healthfulness and like hope. He
 cries to me, "Cheer up, old man, we're there!"
 
-We are standing still. It is necessary to go hack a little--Nom de
-Dieu!--no, we are moving on again!
+We are standing still. It is necessary to go back a little--<i>Nom de
+Dieu!</i>--no, we are moving on again!
 
 Suddenly a fearful explosion falls on us. I tremble to my skull; a
 metallic reverberation fills my head; a scorching and suffocating smell
@@ -6551,7 +6552,7 @@ big, little, and average.
 
 One by one the others come to join in the conversation, to chaffer and
 cadge. We are getting used to the half-darkness. But Corporal Salavert,
-who has a well-earned reputation for dexterity, makes a banging lamp
+who has a well-earned reputation for dexterity, makes a hanging lamp
 with a candle and a tray, the latter contrived from a Camembert box and
 some wire. We light up, and around its illumination each man tells what
 he has in his pockets, with parental preferences and bias.
@@ -6613,7 +6614,7 @@ ready? Everything must be fixed up this evening and packed tight and
 solid, you know. Going into the first line this time, and we may have a
 hot time of it."
 
-"Right you are, right you are, mon adjutant." heedless voices answer.
+"Right you are, right you are, mon adjutant," heedless voices answer.
 
 "How do you write 'Arnesse'?" asks Benech, who is on all fours, at work
 with a pencil and an envelope. While Cocon spells "Ernest" for him and
@@ -6679,7 +6680,7 @@ display. When he came to the purse, he looked at it with an air of deep
 compassion.
 
 "He's damnably flat, poor chap!" He counted the contents. "Three
-francs! My boy, I most set about feathering this nest again or I shall
+francs! My boy, I must set about feathering this nest again or I shall
 be stony when we get back."
 
 "You're not the only one that's broken-backed in the treasury."
@@ -6809,7 +6810,7 @@ changed."
 
 Volpatte, deaf to all the talk, muffled in his blanket as if in a shawl
 which makes him look like an old witch, revolves round an object that
-lies on the ground. "I'm wondering," lie says, addressing no one,
+lies on the ground. "I'm wondering," he says, addressing no one,
 "whether to take away this damned tin stove. It's the only one in the
 squad and I've always carried it. Oui, but it leaks like a cullender."
 He cannot decide, and makes a really pathetic picture of separation.
@@ -6948,7 +6949,7 @@ jacket, you are conscious that he feels awkward about showing his legs.
 We see that it hurries discreetly, this silhouette of a bearded
 hippopotamus. He blows, sighs, and mutters.
 
-Marthereau indicates him with a nod of his bead, and says to me, "Look
+Marthereau indicates him with a nod of his head, and says to me, "Look
 at him. Those chaps have always got to be talking fudge. When we ask
 him what he does in civil life, he won't say 'I'm a school teacher' he
 says, leering at you from under his specs with the half of his eyes,
@@ -7620,7 +7621,7 @@ shelf! We're in the Boche trench!"
 "Look out, bon Dieu! Don't stir!--footsteps--"
 
 They hear some one walking, with the quick step of a solitary man. They
-keep still and bold their breath. With their eyes fixed on the ground
+keep still and hold their breath. With their eyes fixed on the ground
 level, they see the darkness moving on the right, and then a shadow
 with legs detaches itself, approaches, and passes. The shadow assumes
 an outline. It is topped by a helmet covered with a cloth and rising to
@@ -7832,7 +7833,7 @@ ostrich feathers white and gray, which come suddenly to life on the
 jumbled and melancholy soil of Hill 119, five or six hundred yards in
 front of us, and then slowly fade away. They are truly the pillar of
 fire and the pillar of cloud, circling as one and thundering together.
-On the flank of the bill we see a party of men running to earth. One by
+On the flank of the hill we see a party of men running to earth. One by
 one they disappear, swallowed up in the adjoining anthills.
 
 Now, one can better make out the form of our "guests." At each shot a
@@ -8097,7 +8098,7 @@ head?" On the bombarded position we saw dots of human beings emerge
 hurriedly and run towards the explosions.
 
 "They're gunners," said Bertrand; "as soon as a shell's burst they
-sprint and rummage for the fuse is the hole, for the position of the
+sprint and rummage for the fuse in the hole, for the position of the
 fuse gives the direction of its battery, you see, by the way it's dug
 itself in; and as for the distance, you've only got to read it--it's
 shown on the range-figures cut on the time-fuse which is set just
@@ -8850,7 +8851,7 @@ stayed here."
 But we stay all the same, irresolutely wavering, as Mesnil Joseph comes
 straight up to us. Never did he seem so frail to us. We can see his
 pallor afar off, his oppressed and unnatural expression; he is bowed as
-be walks, and goes slowly, borne down by endless fatigue and his
+he walks, and goes slowly, borne down by endless fatigue and his
 immovable notion.
 
 "What's the matter with your face?" he asks me--he has seen me point
@@ -9489,7 +9490,7 @@ with sweat, eyes flashing. Some groups seem to be dancing as they
 brandish their knives. They are elated, immensely confident, ferocious.
 
 The battle dies down imperceptibly. A soldier says, "Well, what's to be
-done now?" ft flares up again suddenly at one point. Twenty yards away
+done now?" it flares up again suddenly at one point. Twenty yards away
 in the plain, in the direction of a circle that the gray embankment
 makes, a cluster of rifle-shots crackles and hurls its scattered
 missiles around a hidden machine-gun, that spits intermittently and
@@ -9553,7 +9554,7 @@ they advance linked two and two together by their long burdens. Yonder
 on our right one hears the blows of pick and shovel.
 
 I wander into the middle of this gloomy turmoil. In a place where the
-embankment has crushed the embankment of the trench into a gentle
+bombardment has crushed the embankment of the trench into a gentle
 slope, some one is seated. A faint light still prevails. The tranquil
 attitude of this man as he looks reflectively in front of him is
 sculptural and striking. Stooping, I recognize him as Corporal
@@ -10425,7 +10426,7 @@ my hands in front.
 By grace of the flame which a smoker holds over his pipe I see a bench
 before me, full of beings. My eyes are growing accustomed to the gloom
 that stagnates in the cave, and I can make out pretty well this row of
-people whose bandages and swathings dimly whiten their beads and limbs.
+people whose bandages and swathings dimly whiten their heads and limbs.
 Crippled, gashed, deformed, motionless or restless, fast fixed in this
 kind of barge, they present an incongruous collection of suffering and
 misery.
@@ -10596,7 +10597,7 @@ the silence as if it were an answer.
 
 Then, "I don't believe in God," said a pain-racked voice; "I know He
 doesn't exist--because of the suffering there is. They can tell us all
-the clap-trap they like, and trim up all the words they can rind and
+the clap-trap they like, and trim up all the words they can find and
 all they can make up, but to say that all this innocent suffering could
 come from a perfect God, it's damned skull-stuffing."
 
@@ -11038,7 +11039,7 @@ creases are definite, and punctuated with an Iron Cross in cardboard.
 He holds up his two wooden pink hands to a French officer, whose curly
 wig makes a cushion for a juvenile cap, who has bulging, crimson
 cheeks, and whose infantile eye of adamant looks somewhere else. Beside
-the two personages lies a rifle bar-rowed from the odd trophies of a
+the two personages lies a rifle barrowed from the odd trophies of a
 box of toys. A card gives the title of the animated group--"Kamarad!"
 
 "Ah, damn it, look!"
@@ -11060,7 +11061,7 @@ with the fairy-like being.
 "Tell me, messieurs, you who are real soldiers from the front, you have
 seen that in the trenches, haven't you?"
 
-"Er--yes--yes." reply the two poor fellows, horribly frightened and
+"Er--yes--yes," reply the two poor fellows, horribly frightened and
 gloriously gratified.
 
 "Ah!" the crowd murmurs, "did you hear? And they've been there, they
@@ -11549,7 +11550,7 @@ The lieutenant who is in charge and has led us astray, wriggles his way
 along the men in quest of some lateral exit. A little trench appears,
 shallow and narrow.
 
-"We most go that way, no doubt about it," the officer hastens to say.
+"We must go that way, no doubt about it," the officer hastens to say.
 "Come, forward, boys."
 
 Each man sulkily picks up his burden. But a chorus of oaths and curses
@@ -11612,7 +11613,7 @@ themselves.
 
 "Come, get on with you, nom de Dieu!" says the other in a surly tone
 and floundering heavily, his arms extended by the stretcher. "We can't
-step and rust here."
+stop and rust here."
 
 They put the stretcher down on the parapet, the edge of it overhanging
 the trench, and as we pass underneath we can see the prostrate man's
@@ -12022,7 +12023,7 @@ lifting the head.
 The enemy trench is completing the process of foundering into itself,
 among great marshy undulations and funnel-holes, shaggy with mud: it
 forms among them a line of pools and wells. Here and there we can see
-the still overhanging banks begin to move, crumble, and fail down. In
+the still overhanging banks begin to move, crumble, and fall down. In
 one place we can lean against it.
 
 In this bewildering circle of filth there are no bodies. But there,
@@ -12182,7 +12183,7 @@ bit not so very long ago? She talked some drivel about attacks, and
 said, 'How beautiful they must be to see!'"
 
 A chasseur who was full length on his belly, flattened out like a
-cloak, raised his bead out of the filthy background in which it was
+cloak, raised his head out of the filthy background in which it was
 sunk, and cried, "Beautiful? Oh, hell! It's just as if an ox were to
 say, 'What a fine sight it must be, all those droves of cattle driven
 forward to the slaughter-house!'" He spat out mud from his besmeared
@@ -12192,7 +12193,7 @@ mouth, and his unburied face was like a beast's.
 grating and ragged; "that's all right. But beautiful! Oh, hell!"
 
 Writhing under the idea, he added passionately, "It's when they say
-things like that that they hit us hardest of all!" He spat again, hut
+things like that that they hit us hardest of all!" He spat again, but
 exhausted by his effort he fell back in his bath of mud, and laid his
 head in his spittle.
 
@@ -12761,7 +12762,7 @@ trust in God!'"
       *      *      *      *      *
 
 Ah, you are right, poor countless workmen of the battles, you who have
-made with your bands all of the Great War, you whose omnipotence is not
+made with your hands all of the Great War, you whose omnipotence is not
 yet used for well-doing, you human host whose every face is a world of
 sorrows, you who dream bowed under the yoke of a thought beneath that
 sky where long black clouds rend themselves and expand in disheveled
@@ -12843,7 +12844,7 @@ and be mindful for ever!
       *      *      *      *      *
 
 "They will say to you," growled a kneeling man who stooped with his two
-bands in the earth and shook his shoulders like a mastiff, 'My friend,
+hands in the earth and shook his shoulders like a mastiff, 'My friend,
 you have been a wonderful hero!' I don't want them to say it!
 
 "Heroes? Some sort of extraordinary being? Idols? Rot! We've been
